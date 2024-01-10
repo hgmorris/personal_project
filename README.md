@@ -21,7 +21,4 @@ The print function successfully printed "Hello, World! from Morris " to the cons
 
 Purpose: 
 The purpose of this software is to demonstrate a basic Python program for educational purposes. 
-This can serve as a starting point for more complex Python programs.
-
-````
-[]
+This can serve as a starting point for more complex Python programs.    
